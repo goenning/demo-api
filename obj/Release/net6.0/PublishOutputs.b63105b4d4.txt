@@ -1,0 +1,11 @@
+/Users/goenning/Desktop/demo-api/out/demo-api
+/Users/goenning/Desktop/demo-api/out/appsettings.Development.json
+/Users/goenning/Desktop/demo-api/out/appsettings.json
+/Users/goenning/Desktop/demo-api/out/demo-api.dll
+/Users/goenning/Desktop/demo-api/out/demo-api.deps.json
+/Users/goenning/Desktop/demo-api/out/demo-api.runtimeconfig.json
+/Users/goenning/Desktop/demo-api/out/demo-api.pdb
+/Users/goenning/Desktop/demo-api/out/Microsoft.OpenApi.dll
+/Users/goenning/Desktop/demo-api/out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/goenning/Desktop/demo-api/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/goenning/Desktop/demo-api/out/Swashbuckle.AspNetCore.SwaggerUI.dll

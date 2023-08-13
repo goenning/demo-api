@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2h+Z6llDtpCsqwfsq+7iFIXWvFWiWpAFgqIQinHkB6w=",
+  "Source": "demo-api",
+  "BasePath": "_content/demo-api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
